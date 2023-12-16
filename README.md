@@ -1,6 +1,7 @@
 I'm xantezza, unity developer with 2 years of commercial development expirience
 
-- 📫 How to reach me: [telegram](https://t.me/xantezza)
+- My [portfolio](https://xantezza.tilda.ws/)
+- How to reach me: [telegram](https://t.me/xantezza)
 
 <!--
 **xantezza/xantezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
